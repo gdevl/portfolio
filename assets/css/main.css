@@ -71,6 +71,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.fas, .fab {
+	font-size: 2em;
+}
+
 /* Basic */
 
 	@-ms-viewport {
